@@ -131,7 +131,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &runyun_eng
+  username               : "runyun_eng"
 facebook:
   username               :
   app_id                 :
