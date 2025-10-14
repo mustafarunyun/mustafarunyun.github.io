@@ -22,7 +22,7 @@ repository               : "mustafarunyun/mustafarunyun.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_4501.jpg"
+  avatar           : "IMG_4501.png"
   name             : "Mustafa Runyun"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Economics"
